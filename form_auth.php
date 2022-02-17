@@ -31,7 +31,7 @@
  
  
     <div id="form_auth">
-        <h2>Форма авторизации</h2>
+        <h2>Форма авторизации Groom room</h2>
         <form action="auth.php" method="post" name="form_auth">
             <table>
           

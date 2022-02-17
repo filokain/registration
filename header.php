@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Название нашего сайта</title>
+        <title>Groom room</title>
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="css/styles.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -74,7 +74,7 @@
         <div id="header">
             <h2>Шапка сайта</h2>
  
-            <a href="/index.php">Главная</a>
+            <a href="/index.php">Главная Groom room</a>
  
             <div id="auth_block">
             <?php
