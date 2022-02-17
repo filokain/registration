@@ -50,7 +50,7 @@
                         //Если длина введенного пароля меньше шести символов, то выводим сообщение об ошибке
                         if(password.val().length < 6){
                             //Выводим сообщение об ошибке
-                            $('#valid_password_message').text('Минимальная длина пароля 6 символов');
+                            $('#valid_password_message').text('Минимальная длина пароля 6 символов!');
          
                             // Дезактивируем кнопку отправки
                             $('input[type=submit]').attr('disabled', true);
@@ -63,7 +63,7 @@
                             $('input[type=submit]').attr('disabled', false);
                         }
                     }else{
-                        $('#valid_password_message').text('Введите пароль');
+                        $('#valid_password_message').text('Введите пароль!');
                     }
                 });
             });
