@@ -2,7 +2,7 @@
     //Подключение шапки
     require_once("header.php");
 ?>
- 
+ <!-- начало -->
 <div id="content">
     <h2>Контент главной страницы Groom room</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
